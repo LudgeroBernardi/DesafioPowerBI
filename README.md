@@ -3,9 +3,13 @@
 # Passos realizados para conclusão do desafio
 
 Criado um servidor do MySQL no Azure.
+
 Criado uma database no MySQL denominada "Azure_Company", criado as tabelas e inserido os dados utilizando os scripts "script_bd_company.sql" e "insercao_de_dados_e_queries_sql.sql" fornecidos no desafio.
+
 Para conectar no MySQl e executar os scripts foi utilizado o Bash do Azure.
-Criado um relatório no Power BI denominado "Processando e Transformando Dados com Power BI", utilizando a database "Azure_Company" do servidor MySQL criado no Azure. 
+
+Criado um relatório no Power BI denominado "Processando e Transformando Dados com Power BI", utilizando a database "Azure_Company" do servidor MySQL criado no Azure.
+
 Antes de inserir os dados no relatório do Power BI foi utilizado o PowerQuery para transformação dos dados conforme descrito abaixo.
 
 Foi realizado a verificação de todos os cabeçalhos e tipos de dados.
